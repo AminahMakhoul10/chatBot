@@ -48,4 +48,3 @@ Este projeto é um chatbot interativo desenvolvido usando a biblioteca `Streamli
 3. Acesse a aplicação web gerada pelo `Streamlit` e interaja com o chatbot.
 
 Este projeto demonstra como integrar modelos de linguagem avançados em uma aplicação web interativa, utilizando ferramentas modernas e eficientes.
-# chatBot
