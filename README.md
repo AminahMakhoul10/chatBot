@@ -42,7 +42,7 @@ Este projeto é um chatbot interativo desenvolvido usando a biblioteca `Streamli
 
 2. Execute o script `chatFront.py`:
    ```powershell
-   & "C:/Users/Aminah Makhoul/AppData/Local/Programs/Python/Python312/python.exe" "c:/Users/Aminah Makhoul/Downloads/CHAT/chatFront.py"
+   & "C:/Users/seu-usuario/AppData/Local/Programs/Python/Python312/python.exe" "c:/Users/seu-usuario/Downloads/CHAT/chatFront.py"
    ```
 
 3. Acesse a aplicação web gerada pelo `Streamlit` e interaja com o chatbot.
